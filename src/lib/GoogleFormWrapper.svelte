@@ -8,7 +8,7 @@
 
     async function handle(data)
     {
-        await fetch(`https://docs.google.com/forms/d/e/1FAIpQLSe_N9aCU1aftRa8MyPx2e8gugP7TPq6oQ2bu3fznbNzyH6kqw/formResponse?usp=pp_url&entry.648455676=${data.firstname || "blank"}&entry.1869834714=${data.lastname || "blank"}&entry.430230401=${data.email || "blank"}&entry.292098261=${data.phone || "blank"}&submit=Submit`,
+        await fetch(`https://docs.google.com/forms/d/e/1FAIpQLSeiHUzqheH8hXojXsndikKG8Ukvfd_6GFNd3vXRF20OAa96Hw/formResponse?usp=pp_url&entry.461758734=${data.firstname || "blank"}&entry.626201685=${data.lastname || "blank"}&entry.453784336=${data.business || "blank"}&entry.1043587745=${data.email || "blank"}&entry.629263945=${data.phone || "blank"}&entry.1274421353=${data.industry || "blank"}&entry.1675344538=${data.businessDescription || "blank"}&submit=Submit`,
             {
                 method: "GET",
                 headers: {
