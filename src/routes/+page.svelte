@@ -18,7 +18,7 @@
     <div class="mt-auto flex flex-col w-full md:w-2/3 z-10 gap-8 text-white md:absolute md:top-64 md:left-16">
         <p class="text-5xl md:text-8xl font-fancy" style="filter: drop-shadow(0px 0px 10px #00000088);">Driving Growth Through <br> Hands-On Activist Investment</p>
         <p class="text-xl md:text-2xl md:w-2/3">
-            We partner with $1M-$10M EBITDA Founders <br>to scale their businesses 10x
+            We partner with $1M-$10M EBITDA <br>Founders to scale their businesses 10x
         </p>
 
         <button on:click={() => document.getElementById("what-we-do")?.scrollIntoView({ behavior: "smooth" })} 
@@ -62,13 +62,13 @@
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
             <Globe class="w-16 h-16 bg-white text-gray-500 p-4"/>
             <p class="font-fancy text-4xl">Data <br> Warehousing</p>
-            <p class="">Consolidate data from disparate systems and create a single source of truth for reporting</p>
+            <p class="">Consolidate data from disparate systems and create a single source of truth</p>
         </div>
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
             <Signal class="w-16 h-16 bg-blue-400 p-4"/>
             <p class="font-fancy text-4xl">Customer <br> Outreach</p>
-            <p class="">Bring in our sales team to scale revenue - including branding and social media</p>
+            <p class="">Bring in our sales team to scale revenue - including branding, social media, and ad campaigns</p>
         </div>
     </div>
 </div>
@@ -84,7 +84,8 @@
             <Quote class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
                 - Over $1M in cost savings annually through shipping cost reduction
-                - Automation of thousands of data entry man-hours
+                <br>- Automation of thousands of data entry man-hours
+                <br>- Conversion of manual reporting to live dashboards across channels
             </p>
             <div class="flex flex-row items-center gap-4">
                 <img class="h-12 aspect-square rounded-full object-cover" alt="john" src="blank_profile.webp">
