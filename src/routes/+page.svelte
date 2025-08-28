@@ -83,12 +83,9 @@
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
             <Quote class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
-                <ul>
-                    <li>Over $1M in cost savings annually through shipping cost reduction</li>
-                    <li>Automation of thousands of data entry man-hours</li>
-                </ul>
+                - Over $1M in cost savings annually through shipping cost reduction
+                - Automation of thousands of data entry man-hours
             </p>
-
             <div class="flex flex-row items-center gap-4">
                 <img class="h-12 aspect-square rounded-full object-cover" alt="john" src="blank_profile.webp">
 
