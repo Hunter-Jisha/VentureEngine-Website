@@ -55,13 +55,13 @@
     
     <div class="md:w-full justify-center flex flex-col md:flex-row md:h-80 gap-1">
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
-            <Globe class="w-16 h-16 bg-white text-gray-500 p-4"/>
+            <Globe class="w-16 h-16 bg-blue-400 p-4"/>
             <p class="font-fancy text-4xl">Process Mapping <br> and Improvement</p>
             <p class="">Work on-site, directly with operations, to document and make processes efficient</p>
         </div>
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
-            <Signal class="w-16 h-16 bg-blue-400 p-4"/>
+            <Signal class="w-16 h-16 bg-white text-gray-500 p-4"/>
             <p class="font-fancy text-4xl">Data <br> Warehousing</p>
             <p class="">Consolidate data from disparate systems to create a single source of truth</p>
         </div>
@@ -84,23 +84,38 @@
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
             <Trophy class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
-                - Automation of thousands of data entry man-hours
-                <br><br>- Over $1M in cost savings annually through shipping cost reduction
-                <br><br>- Conversion of manual reporting to live dashboards across channels
+                • Automation of thousands of data entry man-hours
+                <br><br>• Conversion of manual reporting to live dashboards across channels
+                <br><br>• Saved over $1M in shipping costs annually through supplier negotiations
             </p>
             <div class="flex flex-row items-center gap-4">
-                <a href="https://mercatalyst.com" target="_blank" rel="noopener noreferrer" class="text-4xl text-blue-400 font-fancy">Mercatalyst</a>
+                <a href="https://mercatalyst.com" target="_blank" rel="noopener noreferrer" class="text-4xl text-blue-400 font-fancy">Mercatalyst (USA)</a>
             </div>
         </div>
 
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
             <Trophy class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
-                - test
+                • Automated testing protocols to optimize factory settings, saving $150k+ annually
+                <br><br>• Created preventative maintenance system covering 150+ plant checkpoints, reducing failure rate by 65%
+                <br><br>• Documented, mapped processes, and optimized operations leading to more than 30% increase in throughput
             </p>
 
             <div class="flex flex-row items-center gap-4">
-                <a href="https://squibgroup.com" target="_blank" rel="noopener noreferrer" class="text-4xl text-blue-400 font-fancy">Squib Group</a>
+                <a href="https://squibgroup.com" target="_blank" rel="noopener noreferrer" class="text-4xl text-blue-400 font-fancy">Squib Group (Australia)</a>
+            </div>
+        </div>
+
+        <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
+            <Trophy class="h-12 aspect-square text-blue-400"/>
+            <p class="text-xl md:text-3xl">
+                • Programatically mapped all client and prospect equipment then optimized inventory to align with sales needs
+                <br><br>• Identified underserved markets and expanded shipping coverage from 4 to 15 states driving 70% YoY revenue growth
+                <br><br>• Reduced delivery times by more than 60% by optimizing logistics, increasing spare parts sales more than 220% in under a year
+            </p>
+
+            <div class="flex flex-row items-center gap-4">
+                <a href="https://rentalpatagonia.cl" target="_blank" rel="noopener noreferrer" class="text-4xl text-blue-400 font-fancy">Rental Patagonia (Chile)</a>
             </div>
         </div>
     </div>
@@ -116,7 +131,7 @@
         <div class="w-full flex flex-col gap-8">
             <div class="flex flex-col gap-2">
                 <p class="text-4xl font-fancy">Let's Do It</p>
-                <p class="text-md text-gray-400">Tell us about your venture and we'll set up a Discovery session if we think it's a good fit
+                <p class="text-md text-gray-400">Tell us about your venture and we'll set up a <br>Discovery session if we think it's a good fit
                 </p>
             </div>
     
@@ -137,7 +152,7 @@
         <div class="w-full flex flex-col gap-12">
             <div class="flex flex-col gap-2">
                 <p class="text-4xl font-fancy">Not Quite</p>
-                <p class="text-md text-gray-400">Find out more below
+                <p class="text-md text-gray-400">Find out more below about us and <br>what our investment process looks like
                 </p>
             </div>
 

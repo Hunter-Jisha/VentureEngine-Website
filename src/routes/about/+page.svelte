@@ -22,17 +22,17 @@
 
     <div class="md:absolute mt-auto left-16 top-32 flex flex-col text-white gap-4 drop-shadow-md" style="text-shadow: 0px 0px 20px #000a;">
         <p class="text-xl">ABOUT US</p>
-        <p class="font-fancy text-5xl md:text-8xl">Your Partner For <br> Success</p>
+        <p class="font-fancy text-5xl md:text-8xl">Your Partner <br> For Growth</p>
     </div>
 
     <div class="z-10 md:absolute right-16 bottom-16 w-full md:w-1/3 flex flex-col bg-white p-8 gap-4">
         <p class="font-fancy text-3xl text-blue-400">Why?</p>
-        <p class="text-xl text-gray-700">We know first-hand how important a strong online presence is to your business. 
-            From targeted ads to DRIP campaigns, we can help you build your customer base and increase conversion from existing customers
+        <p class="text-xl text-gray-700">We solve the operational bottlenecks that prevent growth and then drive sales with 
+            our own sales team, rebranding, and digital marketing.
         </p>
 
         <button class="flex flex-row items-center py-4 pl-6 pr-4 text-white bg-blue-400 w-min gap-2">
-            <p class="font-bold whitespace-nowrap">Our Services</p>
+            <p class="font-bold whitespace-nowrap">Investment Process</p>
             <ArrowDiagonal class="w-6 aspect-square"/>
         </button>
     </div>
@@ -51,10 +51,9 @@
     
         <div class="flex flex-col text-white text-left gap-8">
             <p class="text-2xl leading-relaxed md:max-w-[30rem]">
-                Venture Engine was founded and is headquartered in Dallas, Texas. However, we serve 
-                businesses across the US and strongly believe in using technology to connect 
-                people and businesses from anywhere. Schedule a call with us to see how we 
-                can help build your brand.
+                Venture Engine was founded and is headquartered in Dallas, Texas. However, we partner with 
+                businesses across the globe and strongly believe in using technology to connect 
+                people and businesses anywhere. Schedule a Disovery session to see if your business would be a good fit.
             </p>
             <button on:click={() => document.getElementById("get-started")?.scrollIntoView({ behavior: "smooth" })} 
                 class="px-16 py-4 text-xl bg-white text-gray-700 w-min font-bold hover:bg-gray-200 transition-all">Contact</button>
@@ -76,8 +75,8 @@
                 <p class="font-fancy text-5xl text-white">Problem Solving</p>
                 <p class="text-xl md:text-3xl text-gray-400">
                     We start with a discovery session to dig into your business challenges and identify roadblocks. 
-                    From there, we outline a clear marketing strategy to address each issue head-on, including tailored 
-                    campaigns, content plans, and actionable next steps to reach your goals.
+                    From there, we outline a clear strategy to address each issue head-on, from leading teams in person directly to
+                    automating processes. We align our incentives with yours and make sustainable growth happen fast.
                 </p>
             </div>
             
@@ -91,9 +90,9 @@
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white ml-auto">Technology Driven</p>
                 <p class="text-xl md:text-3xl text-gray-400">
-                    We utilize AI and the latest tools to make smarter decisions faster. 
-                    From optimizing ad spend to analyzing customer behavior, we provide you 
-                    with a clear marketing strategy that turns data into actionable insights
+                    We prepare your business for AI through data warehousing, modeling, and documentation. 
+                    We solve the problem of data mismatches across systems and departments, create a single source of truth for the business,
+                    and enrich your data so your business will be ready to leverage AI.
                 </p>
             </div>
         </div>
@@ -127,8 +126,7 @@
         <div class="w-full flex flex-col gap-12">
             <div class="flex flex-col gap-2">
                 <p class="text-4xl font-fancy">Not Quite</p>
-                <p class="text-md text-gray-400">Schedule a discovery session — let's work together to 
-                    uncover what obstacles your business is facing
+                <p class="text-md text-gray-400">Find out more below about us and <br>what our investment process looks like
                 </p>
             </div>
 
@@ -139,7 +137,7 @@
                 </button>
     
                 <button class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
-                    <p class="whitespace-nowrap">Explore Services</p>
+                    <p class="whitespace-nowrap">Investment Process</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
                 </button>
             </div>
