@@ -18,7 +18,7 @@
         <div class="flex flex-row gap-16 md:gap-24 items-center text-gray-400 text-xl">
             <a href="/" class={$page.url.pathname === "/"  ? "text-white" : ""}>Home</a>
             <a href="/about" class={$page.url.pathname === "/about"  ? "text-white" : ""}>About</a>
-            <a href="/about" class={$page.url.pathname === "/investment-process"  ? "text-white" : ""}>Investment Process</a>
+            <a href="/investment-process" class={$page.url.pathname === "/investment-process"  ? "text-white" : ""}>Investment Process</a>
             <!--<a href="/services" class={$page.url.pathname === "/services"  ? "text-white" : ""}>Services</a>-->
             <a href="#contact" on:click={() => document.getElementById("get-started")?.scrollIntoView({ behavior: "smooth" })} class={$page.url.pathname === "/contact"  ? "text-white" : ""}>Contact</a>
         </div>
