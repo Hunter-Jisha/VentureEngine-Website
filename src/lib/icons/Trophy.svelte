@@ -1,0 +1,10 @@
+<script>
+    let classVariable = "w-full h-full"
+    export { classVariable as class }
+</script>
+
+<svg class={classVariable} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" 
+        d="M17 3V5H20C20 7.20914 18.2091 9 16 9H15.9387C15.4463 11.2822 13.4492 13 11 13C8.55084 13 6.55373 11.2822 6.06129 9H6C3.79086 9 2 7.20914 2 5H5V3H17ZM19 3C20.1046 3 21 3.89543 21 5C21 7.76142 18.7614 10 16 10C15.7386 10 15.486 9.97412 15.2431 9.92504C14.6286 12.329 12.5074 14 10 14C7.49264 14 5.37143 12.329 4.75687 9.92504C4.51398 9.97412 4.26143 10 4 10C1.23858 10 -1 7.76142 -1 5C-1 3.89543 -0.10457 3 1 3H19ZM10 16C11.6569 16 13 14.6569 13 13H7C7 14.6569 8.34315 16 10 16ZM8 18H12V20H15V22H5V20H8V18Z" 
+        fill="currentColor"/>
+</svg>

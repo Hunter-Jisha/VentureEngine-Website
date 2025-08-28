@@ -7,6 +7,7 @@
     import Quote from "$lib/icons/Quote.svelte";
     import ArrowDiagonal from "$lib/icons/ArrowDiagonal.svelte";
     import GoogleFormWrapper from "$lib/GoogleFormWrapper.svelte";
+    import Trophy from "../lib/icons/Trophy.svelte";
 
 </script>
 
@@ -37,7 +38,7 @@
 
         <button on:click={() => document.getElementById("get-started")?.scrollIntoView({ behavior: "smooth" })}
         class="w-full aspect-square bg-blue-400 text-white flex flex-col items-center justify-between p-5 transition-all hover:bg-blue-500 group">
-            <p class="font-bold text-xl">Want to scale? <br> Apply here</p>
+            <p class="font-bold text-xl">Ready to scale? <br> Apply here</p>
 
             <div class="w-16 aspect-square p-4 rounded-full bg-white bg-opacity-20 group-hover:bg-opacity-50 delay-100 transition-all">
                 <Arrow class="w-full h-full rotate-90"/>
@@ -54,9 +55,9 @@
     
     <div class="md:w-full justify-center flex flex-col md:flex-row md:h-80 gap-1">
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
-            <Instagram class="w-16 h-16 bg-blue-400 p-4"/>
+            <Signal class="w-16 h-16 bg-blue-400 p-4"/>
             <p class="font-fancy text-4xl">Process Mapping <br> and Improvement</p>
-            <p class="">Work directly with on-site teams to document and make operations efficient</p>
+            <p class="">Work on-site, directly with operations, to document and make processes efficient</p>
         </div>
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
@@ -66,7 +67,7 @@
         </div>
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
-            <Signal class="w-16 h-16 bg-blue-400 p-4"/>
+            <Instagram class="w-16 h-16 bg-blue-400 p-4"/>
             <p class="font-fancy text-4xl">Customer <br> Outreach</p>
             <p class="">Bring in our sales team to scale revenue - including branding, social media, and ad campaigns</p>
         </div>
@@ -81,27 +82,25 @@
 
     <div class="w-full h-full gap-4 grid grid-rows-2 grid-cols-2 text-white">
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
-            <Quote class="h-12 aspect-square text-blue-400"/>
+            <Trophy class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
-                - Over $1M in cost savings annually through shipping cost reduction
-                <br>- Automation of thousands of data entry man-hours
+                - Automation of thousands of data entry man-hours
+                <br>- Over $1M in cost savings annually through shipping cost reduction
                 <br>- Conversion of manual reporting to live dashboards across channels
             </p>
             <div class="flex flex-row items-center gap-4">
-                <img class="h-12 aspect-square rounded-full object-cover" alt="john" src="blank_profile.webp">
 
                 <p class="text-4xl text-blue-400 font-fancy">Mercatalyst</p>
             </div>
         </div>
 
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
-            <Quote class="h-12 aspect-square text-blue-400"/>
+            <Trophy class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
                 Telos took the info from all our different systems and put them in one place. We stopped having to chase down why one number doesn't match another.
             </p>
 
             <div class="flex flex-row items-center gap-4">
-                <img class="h-12 aspect-square rounded-full object-cover" alt="john" src="blank_profile.webp">
 
                 <p class="text-4xl text-blue-400 font-fancy">Kent Jisha</p>
             </div>
@@ -113,13 +112,13 @@
 </div>
 
 <div id="get-started" class="w-full relative flex flex-col bg-gray-700 flex-shrink-0 items-center pt-32 pb-96 px-16 md:px-48 gap-16 text-white">
-    <p class="text-center md:text-left font-fancy text-6xl">Ready To Go?</p>
+    <p class="text-center md:text-left font-fancy text-6xl">Ready To Scale?</p>
 
     <div class="flex flex-col md:flex-row w-full gap-32 md:gap-96">
         <div class="w-full flex flex-col gap-8">
             <div class="flex flex-col gap-2">
                 <p class="text-4xl font-fancy">Let's do it</p>
-                <p class="text-md text-gray-400">Tell us a bit about yourself and <br> we'll take it from here</p>
+                <p class="text-md text-gray-400">Tell us a bit about your venture and we'll<br> reach out if we want to learn more</p>
             </div>
     
             <GoogleFormWrapper class="w-full flex flex-col gap-4">
