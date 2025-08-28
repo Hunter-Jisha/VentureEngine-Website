@@ -12,7 +12,7 @@
         <button class="hidden md:flex flex-row items-center h-full gap-1">
             <img class="h-full aspect-square mb-2" alt="logo" src="logo.png">
     
-            <p class="font-fancy text-3xl text-white">Ad Forge</p>
+            <p class="font-fancy text-3xl text-white">Venture Engine</p>
         </button>
 
         <div class="flex flex-row gap-16 md:gap-24 items-center text-gray-400 text-xl">

@@ -16,9 +16,9 @@
     <img class="absolute top-0 left-0 w-full h-full object-cover z-0" alt="background" src="background.webp">
 
     <div class="mt-auto flex flex-col w-full md:w-2/3 z-10 gap-8 text-white md:absolute md:top-64 md:left-16">
-        <p class="text-5xl md:text-8xl font-fancy" style="filter: drop-shadow(0px 0px 10px #00000088);">Driving Growth Through <br> Tailored Marketing Solutions</p>
+        <p class="text-5xl md:text-8xl font-fancy" style="filter: drop-shadow(0px 0px 10px #00000088);">Driving Growth Through <br> Tailored Solutions</p>
         <p class="text-xl md:text-2xl md:w-2/3">
-            With years of experience, we assist both large and small brands in reaching their targets through 
+            With years of experience, we assist both large and small companies in reaching their targets through 
             innovative approaches and measurable solutions
         </p>
 
@@ -84,7 +84,7 @@
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
             <Quote class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
-                AdForge built our social media from scratch and helped us target ads for the right local audience. 
+                Venture Engine built our social media from scratch and helped us target ads for the right local audience. 
                 We ask everyone in the chair where they found us from. It used to be all Google but now, more often 
                 than not, people are finding us through social media.
             </p>
@@ -99,7 +99,7 @@
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
             <Quote class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
-                We cut our vacancy rate in half when Ad Forge redid our website and social media. Customers have 
+                We cut our vacancy rate in half when Venture Engine redid our website and social media. Customers have 
                 started coming to us instead of the other way around.
             </p>
 
