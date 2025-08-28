@@ -29,7 +29,7 @@
     <div class="hidden md:flex flex-col w-52 z-10 gap-4 text-white absolute bottom-16 right-16 p-4 bg-white bg-opacity-20 backdrop-blur-md">
         <button on:click={() => document.getElementById("testimonials")?.scrollIntoView({ behavior: "smooth" })} 
         class="w-full aspect-square bg-gray-400 text-white flex flex-col items-center justify-between p-5 transition-all hover:bg-gray-600 group">
-            <p class="font-bold text-xl">Testimonials</p>
+            <p class="font-bold text-xl">Testimonialz</p>
 
             <div class="w-16 aspect-square p-4 rounded-full bg-white bg-opacity-20 group-hover:bg-opacity-50 delay-100 transition-all">
                 <Arrow class="w-full h-full"/>
