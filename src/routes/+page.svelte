@@ -161,15 +161,15 @@
             </div>
 
             <div class="w-full flex flex-col gap-2">
-                <button class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
+                <a href="/about" class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
                     <p class="whitespace-nowrap">About Us</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
-                </button>
+				</a>
     
-                <button class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
+                <a href="/investment-process" class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
                     <p class="whitespace-nowrap">Investment Process</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
-                </button>
+				</a>
             </div>
         </div>
     </div>
