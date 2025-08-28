@@ -53,7 +53,7 @@
             <p class="text-2xl leading-relaxed md:max-w-[30rem]">
                 Venture Engine was founded and is headquartered in Dallas, Texas. However, we partner with 
                 businesses across the globe and strongly believe in using technology to connect 
-                people and businesses anywhere. Schedule a Disovery session to see if your business would be a good fit.
+                people and businesses anywhere. Schedule a Discovery session to see if you'd be a good fit.
             </p>
             <button on:click={() => document.getElementById("get-started")?.scrollIntoView({ behavior: "smooth" })} 
                 class="px-16 py-4 text-xl bg-white text-gray-700 w-min font-bold hover:bg-gray-200 transition-all">Contact</button>
