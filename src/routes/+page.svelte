@@ -13,7 +13,7 @@
 <Navbar/>
 
 <div class="w-full h-[90vh] relative flex flex-col flex-shrink-0 p-12">
-    <img class="absolute top-0 left-0 w-full h-full object-cover z-0" alt="background" src="background.webp">
+    <img class="absolute top-0 left-0 w-full h-full object-cover z-0" alt="background" src="background2.jpeg">
 
     <div class="mt-auto flex flex-col w-full md:w-2/3 z-10 gap-8 text-white md:absolute md:top-64 md:left-16">
         <p class="text-5xl md:text-8xl font-fancy" style="filter: drop-shadow(0px 0px 10px #00000088);">Driving Growth Through <br> Tailored Solutions</p>
