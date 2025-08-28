@@ -53,7 +53,7 @@
             <p class="text-2xl leading-relaxed md:max-w-[30rem]">
                 Venture Engine was founded and is headquartered in Dallas, Texas. However, we partner with 
                 businesses across the globe and strongly believe in using technology to connect 
-                people and businesses anywhere. Schedule a Discovery session to see if you'd be a good fit.
+                people and businesses anywhere. Schedule a Discovery session.
             </p>
             <button on:click={() => document.getElementById("get-started")?.scrollIntoView({ behavior: "smooth" })} 
                 class="px-16 py-4 text-xl bg-white text-gray-700 w-min font-bold hover:bg-gray-200 transition-all">Contact</button>
@@ -91,8 +91,7 @@
                 <p class="font-fancy text-5xl text-white ml-auto">Technology Driven</p>
                 <p class="text-xl md:text-3xl text-gray-400">
                     We prepare your business for AI through data warehousing, modeling, and documentation. 
-                    We solve the problem of data mismatches across systems and departments, create a single source of truth for the business,
-                    and enrich your data so your business will be ready to leverage AI.
+                    We solve the problem of data mismatches across systems and departments, create a single source of truth for the business, and enrich your data.
                 </p>
             </div>
         </div>
