@@ -38,7 +38,7 @@
 
         <button on:click={() => document.getElementById("get-started")?.scrollIntoView({ behavior: "smooth" })}
         class="w-full aspect-square bg-blue-400 text-white flex flex-col items-center justify-between p-5 transition-all hover:bg-blue-500 group">
-            <p class="font-bold text-xl">Ready to scale? <br> Apply here</p>
+            <p class="font-bold text-xl">Want to Scale? <br> Apply here</p>
 
             <div class="w-16 aspect-square p-4 rounded-full bg-white bg-opacity-20 group-hover:bg-opacity-50 delay-100 transition-all">
                 <Arrow class="w-full h-full rotate-90"/>
@@ -85,8 +85,8 @@
             <Trophy class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
                 - Automation of thousands of data entry man-hours
-                <br>- Over $1M in cost savings annually through shipping cost reduction
-                <br>- Conversion of manual reporting to live dashboards across channels
+                <br><br>- Over $1M in cost savings annually through shipping cost reduction
+                <br><br>- Conversion of manual reporting to live dashboards across channels
             </p>
             <div class="flex flex-row items-center gap-4">
 
