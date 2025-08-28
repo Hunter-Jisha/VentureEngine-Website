@@ -18,7 +18,7 @@
     <div class="mt-auto flex flex-col w-full md:w-2/3 z-10 gap-8 text-white md:absolute md:top-64 md:left-16">
         <p class="text-5xl md:text-8xl font-fancy" style="filter: drop-shadow(0px 0px 10px #00000088);">Driving Growth Through <br> Hands-On Activist Investment</p>
         <p class="text-xl md:text-2xl md:w-2/3">
-            We partner with $1M-$10M EBITDA Founders to help scale their businesses 10x
+            We partner with $1M-$10M EBITDA Founders <br>to scale their businesses 10x
         </p>
 
         <button on:click={() => document.getElementById("what-we-do")?.scrollIntoView({ behavior: "smooth" })} 
@@ -67,8 +67,8 @@
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
             <Signal class="w-16 h-16 bg-blue-400 p-4"/>
-            <p class="font-fancy text-4xl">Drive <br> Sales</p>
-            <p class="">Bring in our in-house sales team to scale revenue - including branding and social media</p>
+            <p class="font-fancy text-4xl">Customer <br> Outreach</p>
+            <p class="">Bring in our sales team to scale revenue - including branding and social media</p>
         </div>
     </div>
 </div>
@@ -76,15 +76,17 @@
 <div id="testimonials" class="w-full relative flex flex-col bg-blue-400 flex-shrink-0 items-center py-16 px-8 md:px-48 gap-16">
     <div class="flex flex-col w-full text-white gap-2 text-center md:text-left">
         <p class="">OUR PARTNERS</p>
-        <p class="font-fancy text-5xl md:text-6xl">Some of our success storeis</p>
+        <p class="font-fancy text-5xl md:text-6xl">Some of our success stories</p>
     </div>
 
     <div class="w-full h-full gap-4 grid grid-rows-2 grid-cols-2 text-white">
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
             <Quote class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
-                Over $1M in cost savings annually through shipping cost reduction
-                
+                <ul>
+                    <li>Over $1M in cost savings annually through shipping cost reduction</li>
+                    <li>Automation of thousands of data entry man-hours</li>
+                </ul>
             </p>
 
             <div class="flex flex-row items-center gap-4">
