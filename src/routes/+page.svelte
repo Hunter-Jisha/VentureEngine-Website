@@ -55,15 +55,15 @@
     
     <div class="md:w-full justify-center flex flex-col md:flex-row md:h-80 gap-1">
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
-            <Signal class="w-16 h-16 bg-blue-400 p-4"/>
+            <Globe class="w-16 h-16 bg-white text-gray-500 p-4"/>
             <p class="font-fancy text-4xl">Process Mapping <br> and Improvement</p>
             <p class="">Work on-site, directly with operations, to document and make processes efficient</p>
         </div>
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
-            <Globe class="w-16 h-16 bg-white text-gray-500 p-4"/>
+            <Signal class="w-16 h-16 bg-blue-400 p-4"/>
             <p class="font-fancy text-4xl">Data <br> Warehousing</p>
-            <p class="">Consolidate data from disparate systems and create a single source of truth</p>
+            <p class="">Consolidate data from disparate systems to create a single source of truth</p>
         </div>
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
@@ -86,23 +86,21 @@
             <p class="text-xl md:text-3xl">
                 - Automation of thousands of data entry man-hours
                 <br><br>- Over $1M in cost savings annually through shipping cost reduction
-                <br><br>- Conversion of manual reporting to live dashboards across channels<br>
+                <br><br>- Conversion of manual reporting to live dashboards across channels
             </p>
             <div class="flex flex-row items-center gap-4">
-
-                <p class="text-4xl text-blue-400 font-fancy">Mercatalyst</p>
+                <a href="https://mercatalyst.com" target="_blank" rel="noopener noreferrer" class="text-4xl text-blue-400 font-fancy">Mercatalyst</a>
             </div>
         </div>
 
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
             <Trophy class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
-                Telos took the info from all our different systems and put them in one place. We stopped having to chase down why one number doesn't match another.
+                - test
             </p>
 
             <div class="flex flex-row items-center gap-4">
-
-                <p class="text-4xl text-blue-400 font-fancy">Kent Jisha</p>
+                <a href="https://squibgroup.com" target="_blank" rel="noopener noreferrer" class="text-4xl text-blue-400 font-fancy">Squib Group</a>
             </div>
         </div>
     </div>
@@ -117,8 +115,9 @@
     <div class="flex flex-col md:flex-row w-full gap-32 md:gap-96">
         <div class="w-full flex flex-col gap-8">
             <div class="flex flex-col gap-2">
-                <p class="text-4xl font-fancy">Let's do it</p>
-                <p class="text-md text-gray-400">Tell us a bit about your venture and we'll<br> reach out if we want to learn more</p>
+                <p class="text-4xl font-fancy">Let's Do It</p>
+                <p class="text-md text-gray-400">Tell us about your venture and we'll set up a Discovery session if we think it's a good fit
+                </p>
             </div>
     
             <GoogleFormWrapper class="w-full flex flex-col gap-4">
@@ -138,8 +137,7 @@
         <div class="w-full flex flex-col gap-12">
             <div class="flex flex-col gap-2">
                 <p class="text-4xl font-fancy">Not Quite</p>
-                <p class="text-md text-gray-400">Schedule a discovery session — let's work together to 
-                    uncover what obstacles your business is facing
+                <p class="text-md text-gray-400">Find out more below
                 </p>
             </div>
 
@@ -150,7 +148,7 @@
                 </button>
     
                 <button class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
-                    <p class="whitespace-nowrap">Explore Services</p>
+                    <p class="whitespace-nowrap">Investment Process</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
                 </button>
             </div>
