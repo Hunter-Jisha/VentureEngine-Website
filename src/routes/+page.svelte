@@ -84,9 +84,11 @@
         <div class="flex flex-col row-span-1 col-span-2 items-start gap-4 bg-white text-gray-500 p-6 md:p-12">
             <Trophy class="h-12 aspect-square text-blue-400"/>
             <p class="text-xl md:text-3xl">
-                • Automation of thousands of data entry man-hours
-                <br><br>• Conversion of manual reporting to live dashboards across channels
-                <br><br>• Saved over $1M in shipping costs annually through supplier negotiations
+                • Automated processes saving thousands of data entry man-hours
+                <br><br>• Converted manual reporting to live dashboards across all business channels
+                <br><br>• Saved over $1M in shipping and corrugated box costs annually through supplier negotiations
+                <br><br>• Created employee performance tracking, increasing visibility across the business to operations.
+
             </p>
             <div class="flex flex-row items-center gap-4">
                 <a href="https://mercatalyst.com" target="_blank" rel="noopener noreferrer" class="text-4xl text-blue-400 font-fancy">Mercatalyst (USA)</a>
