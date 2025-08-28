@@ -134,7 +134,7 @@
 
             <div class="w-full flex flex-col gap-2">
                 <button class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
-                    <p class="whitespace-nowrap">About Us</p>
+                    <p class="whitespace-nowrap">Home</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
                 </button>
     

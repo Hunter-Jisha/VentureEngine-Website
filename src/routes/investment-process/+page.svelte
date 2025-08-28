@@ -98,7 +98,7 @@
     </div>
 </div>
 
-<div id="get-started" class="w-full relative flex flex-col bg-gray-700 flex-shrink-0 items-center pt-32 pb-96 px-16 md:px-48 gap-16 text-white">
+<div id="get-started" class="w-full relative flex flex-col bg-gray-700 flex-shrink-0 items-center pt-32 pb-32 px-16 md:px-48 gap-16 text-white">
     <p class="text-center md:text-left font-fancy text-6xl">Ready To Go?</p>
 
     <div class="flex flex-col md:flex-row w-full gap-32 md:gap-96">
@@ -114,8 +114,11 @@
                     <input class="w-full h-full px-4 font-bold bg-gray-500 text-white focus:text-gray-800 focus:bg-white transition-all" type="text" name="lastname" placeholder="Last Name"/>
                 </div>
 
-                <input class="w-full h-14 px-4 font-bold bg-gray-500 text-white focus:text-gray-800 focus:bg-white transition-all" name="email" type="email" placeholder="Email"/>
-                <input class="w-full h-14 px-4 font-bold bg-gray-500 text-white focus:text-gray-800 focus:bg-white transition-all" name="phone" type="number" placeholder="Phone"/>
+                <input class="w-full h-14 px-4 font-bold bg-gray-500 text-white focus:text-gray-800 focus:bg-white transition-all" name="business" type="text" placeholder="Business Name"/>
+				<input class="w-full h-14 px-4 font-bold bg-gray-500 text-white focus:text-gray-800 focus:bg-white transition-all" name="email" type="email" placeholder="Email"/>
+				<input class="w-full h-14 px-4 font-bold bg-gray-500 text-white focus:text-gray-800 focus:bg-white transition-all" name="phone" type="number" placeholder="Phone"/>
+                <input class="w-full h-14 px-4 font-bold bg-gray-500 text-white focus:text-gray-800 focus:bg-white transition-all" name="industry" type="text" placeholder="Industry"/>
+                <input class="w-full h-14 px-4 font-bold bg-gray-500 text-white focus:text-gray-800 focus:bg-white transition-all" name="businessDescription" type="text" placeholder="Business Description"/>
 
                 <input class="w-full h-14 px-4 font-bold text-white bg-gray-500 transition-all text-lg" type="submit" value="SUBMIT"/>
 
@@ -125,18 +128,18 @@
         <div class="w-full flex flex-col gap-12">
             <div class="flex flex-col gap-2">
                 <p class="text-4xl font-fancy">Not Quite</p>
-                <p class="text-md text-gray-400">Find out more below about us and <br>what our investment process looks like
+                <p class="text-md text-gray-400">Find out more below about us and <br>what our services look like
                 </p>
             </div>
 
             <div class="w-full flex flex-col gap-2">
                 <button class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
-                    <p class="whitespace-nowrap">About Us</p>
+                    <p class="whitespace-nowrap">Home</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
                 </button>
     
                 <button class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
-                    <p class="whitespace-nowrap">Investment Process</p>
+                    <p class="whitespace-nowrap">About Us</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
                 </button>
             </div>
