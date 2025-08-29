@@ -86,8 +86,8 @@
             <p class="text-xl md:text-3xl">
                 • Automated processes saving thousands of data entry man-hours
                 <br><br>• Converted manual reporting to live dashboards across all business channels
-                <br><br>• Saved over $1M in shipping and corrugated box costs annually through supplier negotiations
-                <br><br>• Created employee performance tracking, increasing visibility across the business to operations
+                <br><br>• Saved over $1M in shipping and box costs annually through supplier negotiations
+                <br><br>• Created employee performance tracking, increasing visibility across the business
             </p>
             <div class="flex flex-row items-center gap-4">
                 <a href="https://mercatalyst.com" target="_blank" rel="noopener noreferrer" class="text-4xl text-blue-400 font-fancy">Mercatalyst (USA)</a>

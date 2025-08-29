@@ -27,7 +27,7 @@
 
     <div class="z-10 md:absolute right-16 bottom-16 w-full md:w-1/3 flex flex-col bg-white p-8 gap-4">
         <p class="font-fancy text-3xl text-blue-400">Why?</p>
-        <p class="text-xl text-gray-700">We solve the operational bottlenecks that prevent growth and then drive sales with 
+        <p class="text-xl text-gray-700">We solve the operational bottlenecks that prevent growth and then drive revenue with 
             our own sales team, rebranding, and digital marketing.
         </p>
 
