@@ -99,13 +99,13 @@
 </div>
 
 <div id="get-started" class="w-full relative flex flex-col bg-gray-700 flex-shrink-0 items-center pt-32 pb-32 px-16 md:px-48 gap-16 text-white">
-    <p class="text-center md:text-left font-fancy text-6xl">Ready To Go?</p>
+    <p class="text-center md:text-left font-fancy text-6xl">Ready To Scale?</p>
 
     <div class="flex flex-col md:flex-row w-full gap-32 md:gap-96">
         <div class="w-full flex flex-col gap-8">
             <div class="flex flex-col gap-2">
-                <p class="text-4xl font-fancy">Let's do it</p>
-                <p class="text-md text-gray-400">Tell us a bit about yourself and <br> we'll take it from here</p>
+                <p class="text-4xl font-fancy">Let's Do It</p>
+                <p class="text-md text-gray-400">Tell us about your venture and we'll set up a <br>Discovery session if we think it's a good fit
             </div>
     
             <GoogleFormWrapper class="w-full flex flex-col gap-4">
@@ -137,7 +137,7 @@
                     <p class="whitespace-nowrap">Home</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
 				</a>
-                
+
                 <a href="/about" class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
                     <p class="whitespace-nowrap">About Us</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
