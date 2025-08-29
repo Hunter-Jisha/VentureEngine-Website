@@ -7,7 +7,7 @@
     import Quote from "$lib/icons/Quote.svelte";
     import ArrowDiagonal from "$lib/icons/ArrowDiagonal.svelte";
     import GoogleFormWrapper from "$lib/GoogleFormWrapper.svelte";
-    import Trophy from "../lib/icons/Trophy.svelte";
+    import Trophy from "$lib/icons/Trophy.svelte";
 
 </script>
 
