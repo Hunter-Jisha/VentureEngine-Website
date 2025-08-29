@@ -22,7 +22,7 @@
 
     <div class="md:absolute mt-auto left-16 top-32 flex flex-col text-white gap-4 drop-shadow-md" style="text-shadow: 0px 0px 20px #000a;">
         <p class="text-xl">ABOUT US</p>
-        <p class="font-fancy text-5xl md:text-8xl">Your Partner <br> For Growth</p>
+        <p class="font-fancy text-5xl md:text-8xl">Your Partner <br> For Scale</p>
     </div>
 
     <div class="z-10 md:absolute right-16 bottom-16 w-full md:w-1/3 flex flex-col bg-white p-8 gap-4">
@@ -31,10 +31,10 @@
             our own sales team, rebranding, and digital marketing.
         </p>
 
-        <button class="flex flex-row items-center py-4 pl-6 pr-4 text-white bg-blue-400 w-min gap-2">
+        <a href="/investment-process" class="flex flex-row items-center py-4 pl-6 pr-4 text-white bg-blue-400 w-min gap-2">
             <p class="font-bold whitespace-nowrap">Investment Process</p>
             <ArrowDiagonal class="w-6 aspect-square"/>
-        </button>
+        </a>
     </div>
 </div>
 
@@ -53,7 +53,7 @@
             <p class="text-2xl leading-relaxed md:max-w-[30rem]">
                 Venture Engine was founded and is headquartered in Dallas, Texas. However, we partner with 
                 businesses across the globe and strongly believe in using technology to connect 
-                people and businesses anywhere. <br>Schedule a Discovery session.
+                people and businesses anywhere. <br><br>Schedule a Discovery session here.
             </p>
             <button on:click={() => document.getElementById("get-started")?.scrollIntoView({ behavior: "smooth" })} 
                 class="px-16 py-4 text-xl bg-white text-gray-700 w-min font-bold hover:bg-gray-200 transition-all">Contact</button>
