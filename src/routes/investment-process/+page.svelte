@@ -122,7 +122,7 @@
     </div>
 </div>
 
-<div id="timeline" class="w-full relative flex flex-col bg-gray-700 flex-shrink-0 items-center py-16 px-8 lg:px-48 gap-16">
+<div id="timeline" class="w-full relative flex flex-col bg-gray-700 flex-shrink-0 items-center py-16 px-4 lg:px-48 gap-16">
     <div class="flex flex-col w-full text-white gap-2 text-center">
         <p class="font-fancy text-5xl md:text-6xl">Our Milestones</p>
         <p class="">Wow</p>
@@ -137,16 +137,19 @@
         <div class="w-full flex flex-row">
             <!--event box-->
             <div class="h-full w-1/2 flex flex-row text-gray-500 relative pr-2">
-                <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
-                    <p class="text-3xl font-bold text-gray-700">Evan was born</p>
-                    <p class="text-lg">On a cold april night. Little did he know, it was all downhill from here</p>
-                </div>
+                <div class="h-full flex flex-col md:flex-row">
+                    <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
+                        <p class="text-3xl font-bold text-gray-700">Evan was born</p>
+                        <p class="text-lg">On a cold april night. Little did he know, it was all downhill from here</p>
+                    </div>
 
-                <!--date-->
-                <div class="h-full w-48 bg-white flex items-center justify-center flex-col border-l-2 border-gray-700/50">
-                    <p class="font-bold text-3xl">1999</p>
-                    <p>April</p>
+                    <!--date-->
+                    <div class="h-full w-full py-2 md:w-48 bg-white flex items-center justify-center flex-col border-t-2 md:border-t-0 md:border-l-2 border-gray-700/50">
+                        <p class="font-bold text-3xl">1999</p>
+                        <p>April</p>
+                    </div>
                 </div>
+                
 
                 <!--lil triangle thang-->
                 <div class="w-12 overflow-hidden relative">
@@ -163,23 +166,25 @@
         <!--row container (event on right)-->
         <div class="w-full flex flex-row justify-end">
             <!--event box-->
-            <div class="h-full w-1/2 flex flex-row relative text-gray-500 pl-2">
+            <div class="h-full w-1/2 flex flex-row text-gray-500 relative pl-2">
                 <!--lil triangle thang-->
                 <div class="w-12 overflow-hidden relative">
-                    <div class="w-full aspect-square bg-white rotate-45 absolute top-1/2 left-1/2 -translate-y-1/2"/>
+                    <div class="w-full aspect-square bg-white -rotate-45 absolute top-1/2 -right-1/2 -translate-y-1/2"/>
                 </div>
 
-                 <!--date-->
-                <div class="h-full w-48 bg-white flex items-center justify-center flex-col border-r-2 border-gray-700/50">
-                    <p class="font-bold text-3xl">2002</p>
-                    <p>January</p>
-                </div>
+                <div class="h-full flex flex-col md:flex-row">
+                    <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
+                        <p class="text-3xl font-bold text-gray-700">Evan was born</p>
+                        <p class="text-lg">On a cold april night. Little did he know, it was all downhill from here</p>
+                    </div>
 
-                <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
-                    <p class="text-3xl font-bold text-gray-700">Hunter was born</p>
-                    <p class="text-lg">On a even colder January night. His parents would get divorced a year later</p>
+                    <!--date-->
+                    <div class="h-full w-full py-2 md:w-48 bg-white flex items-center justify-center flex-col border-t-2 md:border-t-0 md:border-l-2 border-gray-700/50">
+                        <p class="font-bold text-3xl">1999</p>
+                        <p>April</p>
+                    </div>
                 </div>
-
+                
                 <!--evans dot-->
                 <div class="bg-white p-1 rounded-full flex-shrink-0 size-6 absolute top-1/2 -translate-y-1/2 left-0 -translate-x-1/2">
                     <div class="size-full bg-blue-400 rounded-full"/>
@@ -187,20 +192,23 @@
             </div>
         </div>
 
-        <!--row container (event on left)-->
+         <!--row container (event on left)-->
         <div class="w-full flex flex-row">
             <!--event box-->
-            <div class="h-full w-1/2 flex flex-row relative text-gray-500 pr-2">
-                <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
-                    <p class="text-3xl font-bold text-gray-700">Venture Engine Founded</p>
-                    <p class="text-lg">Bingo bongo I'm bad at writing copy and ran out of funny jokes</p>
-                </div>
+            <div class="h-full w-1/2 flex flex-row text-gray-500 relative pr-2">
+                <div class="h-full flex flex-col md:flex-row">
+                    <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
+                        <p class="text-3xl font-bold text-gray-700">Evan was born</p>
+                        <p class="text-lg">On a cold april night. Little did he know, it was all downhill from here</p>
+                    </div>
 
-                <!--date-->
-                <div class="h-full w-48 bg-white flex items-center justify-center flex-col border-l-2 border-gray-700/50">
-                    <p class="font-bold text-3xl">2025</p>
-                    <p>August</p>
+                    <!--date-->
+                    <div class="h-full w-full py-2 md:w-48 bg-white flex items-center justify-center flex-col border-t-2 md:border-t-0 md:border-l-2 border-gray-700/50">
+                        <p class="font-bold text-3xl">1999</p>
+                        <p>April</p>
+                    </div>
                 </div>
+                
 
                 <!--lil triangle thang-->
                 <div class="w-12 overflow-hidden relative">
