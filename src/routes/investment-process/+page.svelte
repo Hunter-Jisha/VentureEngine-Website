@@ -138,7 +138,7 @@
             <!--event box-->
             <div class="h-full w-1/2 flex flex-row text-gray-500 relative pr-2">
                 <div class="h-full flex flex-col md:flex-row">
-                    <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
+                    <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
                         <p class="text-3xl font-bold text-gray-700">Evan was born</p>
                         <p class="text-lg">On a cold april night. Little did he know, it was all downhill from here</p>
                     </div>
@@ -173,7 +173,7 @@
                 </div>
 
                 <div class="h-full flex flex-col md:flex-row">
-                    <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
+                    <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
                         <p class="text-3xl font-bold text-gray-700">Evan was born</p>
                         <p class="text-lg">On a cold april night. Little did he know, it was all downhill from here</p>
                     </div>
@@ -197,7 +197,7 @@
             <!--event box-->
             <div class="h-full w-1/2 flex flex-row text-gray-500 relative pr-2">
                 <div class="h-full flex flex-col md:flex-row">
-                    <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
+                    <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
                         <p class="text-3xl font-bold text-gray-700">Evan was born</p>
                         <p class="text-lg">On a cold april night. Little did he know, it was all downhill from here</p>
                     </div>
