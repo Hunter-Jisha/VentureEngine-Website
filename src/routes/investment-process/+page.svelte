@@ -122,7 +122,7 @@
     </div>
 </div>
 
-<div id="timeline" class="w-full relative flex flex-col bg-gray-700 flex-shrink-0 items-center py-16 px-8 md:px-48 gap-16">
+<div id="timeline" class="w-full relative flex flex-col bg-gray-700 flex-shrink-0 items-center py-16 px-8 lg:px-48 gap-16">
     <div class="flex flex-col w-full text-white gap-2 text-center">
         <p class="font-fancy text-5xl md:text-6xl">Our Milestones</p>
         <p class="">Wow</p>
@@ -131,12 +131,12 @@
     <!--timeline container-->
     <div class="w-full flex flex-col relative gap-12">
         <!--little dashy line-->
-        <div class="h-full absolute border-dashed border-2 border-white left-1/2 top-0 w-1"/>
+        <div class="h-full absolute border-dashed border-2 border-white left-1/2 top-0 w-1 -translate-x-1/2"/>
 
         <!--row container (event on left)-->
-        <div class="w-full h-64 flex flex-row">
+        <div class="w-full flex flex-row">
             <!--event box-->
-            <div class="h-full w-[calc(50%-1rem)] flex flex-row text-gray-500">
+            <div class="h-full w-1/2 flex flex-row text-gray-500 relative pr-2">
                 <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
                     <p class="text-3xl font-bold text-gray-700">Evan was born</p>
                     <p class="text-lg">On a cold april night. Little did he know, it was all downhill from here</p>
@@ -152,13 +152,18 @@
                 <div class="w-12 overflow-hidden relative">
                     <div class="w-full aspect-square bg-white -rotate-45 absolute top-1/2 -left-1/2 -translate-y-1/2"/>
                 </div>
+
+                <!--evans dot-->
+                <div class="bg-white p-1 rounded-full flex-shrink-0 size-6 absolute top-1/2 -translate-y-1/2 right-0 translate-x-1/2">
+                    <div class="size-full bg-blue-400 rounded-full"/>
+                </div>
             </div>
         </div>
 
         <!--row container (event on right)-->
-        <div class="w-full h-64 flex flex-row justify-end">
+        <div class="w-full flex flex-row justify-end">
             <!--event box-->
-            <div class="h-full w-[calc(50%-1rem)] flex flex-row text-gray-500">
+            <div class="h-full w-1/2 flex flex-row relative text-gray-500 pl-2">
                 <!--lil triangle thang-->
                 <div class="w-12 overflow-hidden relative">
                     <div class="w-full aspect-square bg-white rotate-45 absolute top-1/2 left-1/2 -translate-y-1/2"/>
@@ -174,13 +179,18 @@
                     <p class="text-3xl font-bold text-gray-700">Hunter was born</p>
                     <p class="text-lg">On a even colder January night. His parents would get divorced a year later</p>
                 </div>
+
+                <!--evans dot-->
+                <div class="bg-white p-1 rounded-full flex-shrink-0 size-6 absolute top-1/2 -translate-y-1/2 left-0 -translate-x-1/2">
+                    <div class="size-full bg-blue-400 rounded-full"/>
+                </div>
             </div>
         </div>
 
         <!--row container (event on left)-->
-        <div class="w-full h-64 flex flex-row">
+        <div class="w-full flex flex-row">
             <!--event box-->
-            <div class="h-full w-[calc(50%-1rem)] flex flex-row text-gray-500">
+            <div class="h-full w-1/2 flex flex-row relative text-gray-500 pr-2">
                 <div class="h-full flex flex-col gap-2 p-6 w-full bg-white">
                     <p class="text-3xl font-bold text-gray-700">Venture Engine Founded</p>
                     <p class="text-lg">Bingo bongo I'm bad at writing copy and ran out of funny jokes</p>
@@ -195,6 +205,11 @@
                 <!--lil triangle thang-->
                 <div class="w-12 overflow-hidden relative">
                     <div class="w-full aspect-square bg-white -rotate-45 absolute top-1/2 -left-1/2 -translate-y-1/2"/>
+                </div>
+
+                <!--evans dot-->
+                <div class="bg-white p-1 rounded-full flex-shrink-0 size-6 absolute top-1/2 -translate-y-1/2 right-0 translate-x-1/2">
+                    <div class="size-full bg-blue-400 rounded-full"/>
                 </div>
             </div>
         </div>
