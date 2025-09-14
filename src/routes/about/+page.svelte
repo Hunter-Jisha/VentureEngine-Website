@@ -1,13 +1,6 @@
 <script>
     import Navbar from "$lib/Navbar.svelte";
-    import Arrow from "$lib/icons/Arrow.svelte";
-    import Signal from "$lib/icons/Signal.svelte";
-    import Globe from "$lib/icons/Globe.svelte";
-    import Instagram from "$lib/icons/Instagram.svelte";
-    import Quote from "$lib/icons/Quote.svelte";
-    import Form from "$lib/Form.svelte";
     import ArrowDiagonal from "$lib/icons/ArrowDiagonal.svelte";
-    import Profile from "$lib/icons/Profile.svelte";
     import Briefcase from "$lib/icons/Briefcase.svelte";
     import Robot from "$lib/icons/Robot.svelte";
     import GoogleFormWrapper from "$lib/GoogleFormWrapper.svelte";
@@ -18,7 +11,7 @@
 
 <div class="w-full md:h-[55rem] relative flex flex-col flex-shrink-0 pt-24 p-8 gap-16">
 
-    <img class="w-full h-full object-cover absolute top-0 left-0" alt="background" src="about-us-background.jpg">
+    <img class="w-full h-full object-cover absolute top-0 left-0" alt="background" src="about-us-background.webp">
 
     <div class="md:absolute mt-auto left-16 top-32 flex flex-col text-white gap-4 drop-shadow-md" style="text-shadow: 0px 0px 20px #000a;">
         <p class="text-xl">ABOUT US</p>
