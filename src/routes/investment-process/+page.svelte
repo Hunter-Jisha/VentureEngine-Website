@@ -131,7 +131,7 @@
     <!--timeline container-->
     <div class="w-full flex flex-col relative gap-12">
         <!--little dashy line-->
-        <div class="h-full absolute border-dashed border-2 border-white left-1/2 top-0 w-1 -translate-x-1/2"/>
+        <div class="h-full absolute border-dashed border-2 border-white left-1/2 top-0 w-0 -translate-x-1/2"/>
 
         <!--row container (event on left)-->
         <div class="w-full flex flex-row">
