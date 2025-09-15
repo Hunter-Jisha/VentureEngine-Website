@@ -139,7 +139,7 @@
                 <div class="h-full flex flex-col md:flex-row">
                     <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
                         <p class="text-3xl font-bold text-gray-700">Continuous Feedback</p>
-                        <p class="text-lg">Consistent communication to check progress to timeline. Optimize and Scale.</p>
+                        <p class="text-lg">Consistent communication to check progress to timeline. Optimize and scale.</p>
                     </div>
 
                     <!--date-->
