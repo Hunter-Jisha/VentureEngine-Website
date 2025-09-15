@@ -45,7 +45,7 @@
                 <div class="h-full flex flex-col md:flex-row">
                     <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
                         <p class="text-3xl font-bold text-gray-700">Discovery Session</p>
-                        <p class="text-lg">Meeting to set expectations and see if there's a good fit. <br>Evaluation and qualification.</p>
+                        <p class="text-lg">Meeting to set expectations and see if there's a good fit. Evaluation and qualification.</p>
                     </div>
 
                     <!--date-->
@@ -80,7 +80,7 @@
                 <div class="h-full flex flex-col md:flex-row">
                     <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
                         <p class="text-3xl font-bold text-gray-700">Meet with Operations</p>
-                        <p class="text-lg">Sessions by department to confirm assumptions from discovery. <br>Roadmaps and timelines.</p>
+                        <p class="text-lg">Sessions by department to confirm assumptions from discovery. Roadmaps and timelines.</p>
                     </div>
 
                     <!--date-->
@@ -104,7 +104,7 @@
                 <div class="h-full flex flex-col md:flex-row">
                     <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
                         <p class="text-3xl font-bold text-gray-700">Launch Day</p>
-                        <p class="text-lg">Integrate our team into operations to drive change. <br>Agreements finalized.</p>
+                        <p class="text-lg">Integrate our team into operations to drive change. Agreements finalized.</p>
                     </div>
 
                     <!--date-->
@@ -127,31 +127,30 @@
             </div>
         </div>
 
-        <!--row container (event on left)-->
-        <div class="w-full flex flex-row">
+                <!--row container (event on right)-->
+        <div class="w-full flex flex-row justify-end">
             <!--event box-->
-            <div class="h-full w-1/2 flex flex-row text-gray-500 relative pr-2">
+            <div class="h-full w-1/2 flex flex-row text-gray-500 relative pl-2">
+                <!--lil triangle thang-->
+                <div class="w-12 overflow-hidden relative">
+                    <div class="w-full aspect-square bg-white -rotate-45 absolute top-1/2 -right-1/2 -translate-y-1/2"/>
+                </div>
+
                 <div class="h-full flex flex-col md:flex-row">
                     <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
                         <p class="text-3xl font-bold text-gray-700">Continuous Feedback</p>
-                        <p class="text-lg">Consistent communication to check progress to timeline. <br>Optimize and Scale.</p>
+                        <p class="text-lg">Consistent communication to check progress to timeline. Optimize and Scale.</p>
                     </div>
 
                     <!--date-->
                     <div class="h-full w-full py-2 md:w-48 bg-white flex items-center justify-center flex-col border-t-2 md:border-t-0 md:border-l-2 border-gray-700/50">
-                        <p class="font-bold text-3xl">T+x</p>
+                        <p class="font-bold text-3xl">T+X</p>
                         <p>Track</p>
                     </div>
                 </div>
                 
-
-                <!--lil triangle thang-->
-                <div class="w-12 overflow-hidden relative">
-                    <div class="w-full aspect-square bg-white -rotate-45 absolute top-1/2 -left-1/2 -translate-y-1/2"/>
-                </div>
-
                 <!--evans dot-->
-                <div class="bg-white p-1 rounded-full flex-shrink-0 size-6 absolute top-1/2 -translate-y-1/2 right-0 translate-x-1/2">
+                <div class="bg-white p-1 rounded-full flex-shrink-0 size-6 absolute top-1/2 -translate-y-1/2 left-0 -translate-x-1/2">
                     <div class="size-full bg-blue-400 rounded-full"/>
                 </div>
             </div>
