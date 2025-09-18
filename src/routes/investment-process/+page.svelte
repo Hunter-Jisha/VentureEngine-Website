@@ -43,9 +43,9 @@
             <!--event box-->
             <div class="h-full w-1/2 flex flex-row text-gray-500 relative pr-2">
                 <div class="h-full flex flex-col md:flex-row">
-                    <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
-                        <p class="text-3xl font-bold text-gray-700">Discovery Session</p>
-                        <p class="text-lg">Meeting to set expectations and see if there's a good fit. Evaluation and qualification.</p>
+                    <div class="h-full flex flex-col gap-2 p-4 md:p-6 w-full bg-white">
+                        <p class="text-2xl lg:text-3xl font-bold text-gray-700">Discovery Session</p>
+                        <p class="text-md lg:text-lg">Meeting to set expectations and see if there's a good fit. Evaluation and qualification.</p>
                     </div>
 
                     <!--date-->
@@ -78,9 +78,9 @@
                 </div>
 
                 <div class="h-full flex flex-col md:flex-row">
-                    <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
-                        <p class="text-3xl font-bold text-gray-700">Meet with Operations</p>
-                        <p class="text-lg">Sessions by department to confirm assumptions from discovery. Roadmaps and timelines.</p>
+                    <div class="h-full flex flex-col gap-2 p-4 md:p-6 w-full bg-white">
+                        <p class="text-2xl lg:text-3xl font-bold text-gray-700">Meet with Operations</p>
+                        <p class="text-md lg:text-lg">Sessions by department to confirm assumptions from discovery. Roadmaps and timelines.</p>
                     </div>
 
                     <!--date-->
@@ -102,9 +102,9 @@
             <!--event box-->
             <div class="h-full w-1/2 flex flex-row text-gray-500 relative pr-2">
                 <div class="h-full flex flex-col md:flex-row">
-                    <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
-                        <p class="text-3xl font-bold text-gray-700">Launch Day</p>
-                        <p class="text-lg">Integrate our team into operations to drive change. Agreements finalized.</p>
+                    <div class="h-full flex flex-col gap-2 p-4 md:p-6 w-full bg-white">
+                        <p class="text-2xl lg:text-3xl font-bold text-gray-700">Launch Day</p>
+                        <p class="text-md lg:text-lg">Integrate our team into operations to drive change. Agreements finalized.</p>
                     </div>
 
                     <!--date-->
@@ -127,7 +127,7 @@
             </div>
         </div>
 
-                <!--row container (event on right)-->
+        <!--row container (event on right)-->
         <div class="w-full flex flex-row justify-end">
             <!--event box-->
             <div class="h-full w-1/2 flex flex-row text-gray-500 relative pl-2">
@@ -137,9 +137,9 @@
                 </div>
 
                 <div class="h-full flex flex-col md:flex-row">
-                    <div class="h-full flex flex-col gap-2 p-2 md:p-6 w-full bg-white">
-                        <p class="text-3xl font-bold text-gray-700">Continuous Feedback</p>
-                        <p class="text-lg">Consistent communication to check progress to timeline. Optimize and scale.</p>
+                    <div class="h-full flex flex-col gap-2 p-4 md:p-6 w-full bg-white">
+                        <p class="text-2xl lg:text-3xl font-bold text-gray-700">Continuous Feedback</p>
+                        <p class="text-md lg:text-lg">Consistent communication to check progress to timeline. Optimize and scale.</p>
                     </div>
 
                     <!--date-->
